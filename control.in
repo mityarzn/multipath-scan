@@ -1,0 +1,9 @@
+Package: multipath-scan
+Version: @@VERSION@@-@@PKGRELEASE@@
+Section: perl
+Priority: optional
+Architecture: @@ARCH@@
+Depends: multipath-tools, sg3-utils
+Maintainer: Dmitry Petuhov <mityapetuhov@gmail.com>
+Description: Simple script to fast rescan multipath devices and/or scsi buses for changes.
+ This package contains bash script to rescan system for new/changed/deleted scsi devices.

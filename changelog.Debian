@@ -1,0 +1,5 @@
+multipath-scan (1.0-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Dmitry Petuhov <mityapetuhov@gmail.com>  Mon, 29 Aug 2016 09:26:37 +0300
